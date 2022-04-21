@@ -1,7 +1,7 @@
 
 # Product/Project/Service
 ## Overview
-- Amount of literature, frameworks, videos, podcast and resources on product/project/service development and maintenance is enourmous. It may feel overwhelming at first - especially if someone is starting in field of software engineering. The size of most of the frameworks is way too massive, they are too complicated and require learning their own concepts and glossary.. Feels like reinventing the wheel all over.
+- Amount of literature, frameworks, videos, podcast and resources on product/project/service development and maintenance as well as management is enourmous. It may feel overwhelming at first - especially if someone is starting in field of software engineering. The size of most of the frameworks is way too massive, they are too complicated and require learning their own concepts and glossary.. Feels like reinventing the wheel all over.
 - Most of us do not need extended and detailed knowledge of those frameworks. Keep in mind that majority of them are business products and are structured to attend a great deal of official trainings, passing certification and re-certification while spending a lot of money.  
 - After few years in software engineering I have noticed that no matter how much time I spend on following such resources I always tend to go back to basics. Those basics are much easier to understand and to implement right away.  
 - The tool I feel is the most effective (in all areas of my life) is asking questions - that's why I decided to gather in this file all relevant and most powerful questions I use on daily basis while working on product and services in IT.
@@ -24,7 +24,8 @@ For those who are outside of IT industry - I am 100% sure that you will benefit 
 13. What is our product vision?
 14. Who are our customers and users? 
 15. What are needs of our customers and users?
-
+16. How are we managing risks?
+17. What is the biggest obstacle we need to tackle in order to succeed?
 
 
 
