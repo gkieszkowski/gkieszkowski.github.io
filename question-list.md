@@ -9,32 +9,32 @@
 For those who are outside of IT industry - I am 100% sure that you will benefit from reading this list as well and trying my approach in your projects.
 ## Question list
 **ORDER IS RANDOM**
-1. What will happen if we won't do this task? (if answer is `nothing` - do not proceed)
-2. How can we do less? (ex. less tasks, less features, less code)
-3. If we could just pick one thing to deliver this week/month/day/sprint - what would it be?
-4. What problem are we solving?
-5. What is valuable in our product?
-6. How do we know our product is valuble?
-7. Are our products delivering value to customers?
-8. Are we solving customers problems?
-9. Which tasks can be splitted into smaller, managable pieces?
-10. Does each splitted task has business value on their own?
-11. What items/tasks can we remove from our backlog (TODO list)?
-12. What is our goal for this week/month/quarter?
-13. What is our product vision?
-14. Who are our customers and users? 
-15. What are needs of our customers and users?
-16. How are we managing risks?
-17. What is the biggest obstacle we need to tackle in order to succeed?
-18. What do you (dev team) need in order to succeed?
-19. How are we tracking our progress?
-20. How will we know we succeeded?
-21. Who has impact on our work and goals? (stakeholders mapping)
-22. What has impact on our work and goals? (external and internal factors mapping)
-23. How do we want/like to work? (setting ways of working)
-24. How do we evaluate our achievements and failures? (ensuring some kind of PDCA form)
-25. What are we lacking as a team? (ex. skills, knowledge)
-26. Who is accountable for `X,Y,Z`? (ex. backlog, product vision, delivery...etc.. - in general mapping structure and creating RACI)
+-  What will happen if we won't do this task? (if answer is `nothing` - do not proceed)
+- How can we do less? (ex. less tasks, less features, less code)
+- If we could just pick one thing to deliver this week/month/day/sprint - what would it be?
+- What problem are we solving?
+- What is valuable in our product?
+- How do we know our product is valuble?
+- Are our products delivering value to customers?
+- Are we solving customers problems?
+- Which tasks can be splitted into smaller, managable pieces?
+- Does each splitted task has business value on their own?
+- What items/tasks can we remove from our backlog (TODO list)?
+- What is our goal for this week/month/quarter?
+- What is our product vision?
+- Who are our customers and users? 
+- What are needs of our customers and users?
+- How are we managing risks?
+- What is the biggest obstacle we need to tackle in order to succeed?
+- What do you (dev team) need in order to succeed?
+- How are we tracking our progress?
+- How will we know that we have succeeded?
+- Who has impact on our work and goals? (stakeholders mapping)
+- What has impact on our work and goals? (external and internal factors mapping)
+- How do we want/like to work? (setting ways of working)
+- How do we evaluate our achievements and failures? (ensuring some kind of PDCA form)
+- What are we lacking as a team? (ex. skills, knowledge)
+- Who is accountable for `X,Y,Z`? (ex. backlog, product vision, delivery...etc.. - in general mapping structure and creating RACI)
 
 
 
