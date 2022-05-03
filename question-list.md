@@ -1,4 +1,4 @@
-
+Let this simple markdown page be a proof that you can go extremely simple but still create value.
 # Product/Project/Service
 ## Overview
 - Amount of literature, frameworks, videos, podcast and resources on product/project/service development and maintenance as well as management is enormous. It may feel overwhelming at first - especially if someone is starting in field of software engineering. The size of most of the frameworks is way too massive, they are too complicated and require learning their own concepts and glossary.. Feels like reinventing the wheel all over.
