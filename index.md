@@ -1,4 +1,4 @@
-
+Let this basic page be proof that you can deliver something valuable even in extermely simple form.
 # Product/Project/Service
 ## Overview
 - Amount of literature, frameworks, videos, podcast and resources on product/project/service development and maintenance as well as management is enormous. It may feel overwhelming at first - especially if someone is starting in field of software engineering. The size of most of the frameworks is way too massive, they are too complicated and require learning their own concepts and glossary.. Feels like reinventing the wheel all over.
@@ -35,6 +35,16 @@ For those who are outside of IT industry - I am 100% sure that you will benefit 
 - How do we evaluate our achievements and failures? (ensuring some kind of PDCA form)
 - What are we lacking as a team? (ex. skills, knowledge)
 - Who is accountable for `X,Y,Z`? (ex. backlog, product vision, delivery...etc.. - in general mapping structure and creating RACI)
+- What metrics are we tracking?
+- Why are we useing those metrics (what for)?
+_ What is our:
+    - Return on Investment (ROI)?
+    - Net Promoter Score (NPS)?
+    - Lead time
+    - Cycle time
+    - Throughput
+    - Average Work in Progress (number of items)
+
 
 
 
