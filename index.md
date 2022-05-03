@@ -36,8 +36,8 @@ For those who are outside of IT industry - I am 100% sure that you will benefit 
 - What are we lacking as a team? (ex. skills, knowledge)
 - Who is accountable for `X,Y,Z`? (ex. backlog, product vision, delivery...etc.. - in general mapping structure and creating RACI)
 - What metrics are we tracking?
-- Why are we useing those metrics (what for)?
-_ What is our:
+- Why are we using those metrics (what for)?
+- What is our:
     - Return on Investment (ROI)?
     - Net Promoter Score (NPS)?
     - Lead time
