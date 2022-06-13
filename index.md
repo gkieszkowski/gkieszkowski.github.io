@@ -65,6 +65,6 @@
 - If we could implement one change in next iteration - what would it be?
 - Do all team members are growth opportunities?
 - Are growth plans in place?
-- Are growth plans achievable and created with team members itself?
+- Are growth plans achievable and created by collaboration team members?
 - Are needs of team members known and respected?
 - Are team members supported in building their value?
