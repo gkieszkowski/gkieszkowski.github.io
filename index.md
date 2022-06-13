@@ -28,7 +28,7 @@
     - Lead time
     - Cycle time
     - Throughput
-    - Average Work in Progress (number of items)
+    - Average Work in Progress (number of items) 
 ### Work/time/scope management
 - Who is accountable for `X,Y,Z`? (ex. backlog, product vision, delivery...etc.. - in general mapping structure and creating RACI)
 - What will happen if we won't do this task? (if answer is `nothing` - do not proceed)
@@ -43,12 +43,13 @@
 - How are we managing risks?
 - Who is accountable for risk management?
 - Who is risk owner for risk `x,y,z`?
-- Which risks have we already mitigated?
+- Which risks have been already mitigated?
 - How are we calculating risk score?
-- Who is contrituting to risk management?
+- Who is contributing to risk management?
 ### Team
 - How do we want/like to work? (setting ways of working)
 - What are we lacking as a team? (ex. skills, knowledge)
+- What can we do to eliminate our weaknesses?
 - What is our biggest strength and what is our biggest weakness?
 - What do we (dev team) need in order to succeed?
 - If we could implement one change in next iteration - what would it be?
