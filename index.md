@@ -15,10 +15,10 @@
 - Are our products delivering value to customers?
 - Are we solving customers problems?
 - What is our goal for this week/month/quarter?
-- Who has impact on our work and goals? (stakeholders mapping)
-- What has impact on our work and goals? (external and internal factors mapping)
+- Who has impact on our work and goals? / (stakeholders mapping)
+- What has impact on our work and goals? / (external and internal factors mapping)
 ### Performance/Metrics
-- How do we evaluate our achievements and failures? (ensuring some kind of PDCA form)
+- How do we evaluate our achievements and failures? / (ensuring some kind of PDCA form)
 - How will we know that we have succeeded?
 - What metrics are we tracking?
 - How are we tracking our progress?
@@ -33,7 +33,7 @@
 ### Work/time/scope management
 - Who is accountable for `X,Y,Z`? (ex. backlog, product vision, delivery...etc.. - in general mapping structure and creating RACI)
 - What will happen if we won't do this task? (if answer is `nothing` - do not proceed)
-- How can we do less? (ex. less tasks, less features, less code - lowering `average WIP`) 
+- How can we do less (ex. less tasks, less features, less code - lowering `average WIP`)?
 - If we could just pick one thing to deliver this week/month/day/sprint - what would it be?
 - Which tasks can be splitted into smaller, managable pieces?
 - Does each splitted task has business value on their own?
@@ -44,8 +44,10 @@
 - What are communiaction channels between team and stakeholders?
 - How roadmap is communicated?
 - How changes in scope are communicated?
-- How stakeolders are informed on progress/mile stones or priorities shift?
-- How work in progress is communicated? (work visualisation tools)
+- How stakeolders are informed on progress/mile stones or priorities shifting?
+- How work in progress is communicated? / (work visualisation tools)
+- Is vision clearly communicated?
+- Is backlog easily accesible for all stakeholders?
 ### Risk management
 - How are we tracking risks?
 - How are we managing risks?
@@ -56,8 +58,13 @@
 - Who is contributing to risk management?
 ### Team
 - How do we want/like to work? (setting ways of working)
-- What are we lacking as a team? (ex. skills, knowledge)
+- What are we lacking as a team (ex. skills, knowledge)?
 - What can we do to eliminate our weaknesses?
 - What is our biggest strength and what is our biggest weakness?
 - What do we (dev team) need in order to succeed?
 - If we could implement one change in next iteration - what would it be?
+- Do all team members are growth opportunities?
+- Are growth plans in place?
+- Are growth plans achievable and created with team members itself?
+- Are needs of team members known and respected?
+- Are team members supported in building their value?
