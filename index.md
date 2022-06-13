@@ -1,9 +1,8 @@
 # Overview
-- Questions below are my main tool for improving many areas of my life.
-- I use them in my personal life as well as in work life.
+- Questions below are my main tool for progressing in my personal life as well as in work life.
 - Majority of questions regarding work area will touch subject of software engineering but will be also applicable for other industries and areas.
+- Order is random.
 ## Software engineering - Product/Project/Service
-**ORDER IS RANDOM**
 ### Value
 - What problem are we solving?
 - What is our product vision?
