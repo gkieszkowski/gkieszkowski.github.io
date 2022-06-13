@@ -39,6 +39,13 @@
 - Does each splitted task has business value on their own?
 - What items/tasks can we remove from our backlog (TODO list)?
 - What is the biggest obstacle we need to tackle in order to succeed?
+### Communication
+- Is communication in team synchronous or asyncchronous?
+- What are communiaction channels between team and stakeholders?
+- How roadmap is communicated?
+- How changes in scope are communicated?
+- How stakeolders are informed on progress/mile stones or priorities shift?
+- How work in progress is communicated? (work visualisation tools)
 ### Risk management
 - How are we tracking risks?
 - How are we managing risks?
