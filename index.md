@@ -1,6 +1,7 @@
 # Overview
-- Questions below are my main tool for progressing in my personal life as well as in work life.
-- Majority of questions regarding work area will touch subject of software engineering but will be also applicable for other industries and areas.
+- Questions below are the main tool I use on daily basis.
+- I hope it will make software engineering management simplified for you.
+- Those questions could be also applicable for other industries and areas.
 - Order is random.
 ## Software engineering - Product/Project/Service
 ### Value
