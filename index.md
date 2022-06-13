@@ -4,10 +4,11 @@
 - Majority of questions regarding work area will touch subject of software engineering but will be also applicable for other industries and areas.
 ## Software engineering - Product/Project/Service
 **ORDER IS RANDOM**
-### Goal/Vision/Value
+### Value
 - What problem are we solving?
 - What is our product vision?
 - What is valuable in our product?
+- Who is accountable for setting product vision?
 - How do we know our product is valuble?
 - Who are our customers and users? 
 - What are needs of our customers and users?
@@ -32,7 +33,7 @@
 ### Work/time/scope management
 - Who is accountable for `X,Y,Z`? (ex. backlog, product vision, delivery...etc.. - in general mapping structure and creating RACI)
 - What will happen if we won't do this task? (if answer is `nothing` - do not proceed)
-- How can we do less? (ex. less tasks, less features, less code)
+- How can we do less? (ex. less tasks, less features, less code - lowering `average WIP`) 
 - If we could just pick one thing to deliver this week/month/day/sprint - what would it be?
 - Which tasks can be splitted into smaller, managable pieces?
 - Does each splitted task has business value on their own?
@@ -43,7 +44,12 @@
 - How are we managing risks?
 - Who is accountable for risk management?
 - Who is risk owner for risk `x,y,z`?
+- Which risks have we already mitigated?
+- How are we calculating risk score?
+- Who is contrituting to risk management?
 ### Team
 - How do we want/like to work? (setting ways of working)
 - What are we lacking as a team? (ex. skills, knowledge)
-- What do you (dev team) need in order to succeed?
+- What is our biggest strength and what is our biggest weakness?
+- What do we (dev team) need in order to succeed?
+- If we could implement one change in next iteration - what would it be?
